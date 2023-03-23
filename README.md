@@ -27,6 +27,6 @@ It is formatted in an Excel Table and this ensures any formulas, charts or Pivot
 
 1. Sales by month for each fashion store is shown separately for comparison.
 2. Sales by category for each fashion store is shown as well for better understanding.
-3. State wise trend for total sales and indiidual fashion group sales is shown
+3. State wise trend for total sales and individual fashion group sales is shown
 4. Sales by manager for both fashion groups is shown.
 5. Three different slicers for financial year,category and state are inserted to make the dashboard dynamic.
